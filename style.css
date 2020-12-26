@@ -1,0 +1,17 @@
+body {
+   background-color: black;
+}
+
+.firework {
+   position: fixed;
+   width: 10px;
+   height: 10px;
+   background-color: orange; 
+}
+
+.particle {
+   position: fixed;
+   width: 5px;
+   height: 5px;
+   background-color: orange; 
+}
